@@ -1,18 +1,20 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-bool x = 1
-while (x = 1){
+﻿int x = 1;
+while (x == 1)
+{
     Console.WriteLine("Zadejte cislo:");
-string cislo = Console.ReadLine();
+    string cislo = Console.ReadLine();
+    if (int.TryParse(cislo, out int vstup))
+    {
+        for (int i = 0; i < cislo.Length; i++)
+        {
+            int cislice = cislo[i] - '0';
+            Console.WriteLine($"Pozice {i + 1}: {cislice}");
+        }
+    }
 
-if (double.TryParse(cislo, out double cislo))
-{
-
-    Console.WriteLine()
-}
-else
-{
-    Console.WriteLine("To neni cislo! Pro opakovani stiskněte enter.");
-    Console.ReadLine();
-}
-}
+    else
+    {
+        Console.WriteLine("To neni cislo! Pro opakovani stiskněte enter.");
+        Console.ReadLine();
+    }
+         }
