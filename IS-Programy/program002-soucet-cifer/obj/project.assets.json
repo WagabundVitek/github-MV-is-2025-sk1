@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\InformacniSystemy\\github-MV-is-2025-sk1\\IS-Programy\\program002-soucet-cifer\\program002b-soucet-cifer\\program002b-soucet-cifer.csproj",
-      "projectName": "program002b-soucet-cifer",
-      "projectPath": "D:\\InformacniSystemy\\github-MV-is-2025-sk1\\IS-Programy\\program002-soucet-cifer\\program002b-soucet-cifer\\program002b-soucet-cifer.csproj",
+      "projectUniqueName": "D:\\InformacniSystemy\\github-MV-is-2025-sk1\\IS-Programy\\program002-soucet-cifer\\program002-soucet-cifer.csproj",
+      "projectName": "program002-soucet-cifer",
+      "projectPath": "D:\\InformacniSystemy\\github-MV-is-2025-sk1\\IS-Programy\\program002-soucet-cifer\\program002-soucet-cifer.csproj",
       "packagesPath": "C:\\Users\\marvi\\.nuget\\packages\\",
-      "outputPath": "D:\\InformacniSystemy\\github-MV-is-2025-sk1\\IS-Programy\\program002-soucet-cifer\\program002b-soucet-cifer\\obj\\",
+      "outputPath": "D:\\InformacniSystemy\\github-MV-is-2025-sk1\\IS-Programy\\program002-soucet-cifer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

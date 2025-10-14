@@ -1,0 +1,15 @@
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\bin\Debug\net9.0\program002b-soucet-cifer.exe
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\bin\Debug\net9.0\program002b-soucet-cifer.deps.json
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\bin\Debug\net9.0\program002b-soucet-cifer.runtimeconfig.json
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\bin\Debug\net9.0\program002b-soucet-cifer.dll
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\bin\Debug\net9.0\program002b-soucet-cifer.pdb
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\obj\Debug\net9.0\program002b-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\obj\Debug\net9.0\program002b-soucet-cifer.AssemblyInfoInputs.cache
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\obj\Debug\net9.0\program002b-soucet-cifer.AssemblyInfo.cs
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\obj\Debug\net9.0\program002b-soucet-cifer.csproj.CoreCompileInputs.cache
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\obj\Debug\net9.0\program002b-soucet-cifer.sourcelink.json
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\obj\Debug\net9.0\program002b-soucet-cifer.dll
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\obj\Debug\net9.0\refint\program002b-soucet-cifer.dll
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\obj\Debug\net9.0\program002b-soucet-cifer.pdb
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\obj\Debug\net9.0\program002b-soucet-cifer.genruntimeconfig.cache
+D:\InformacniSystemy\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002b-soucet-cifer\obj\Debug\net9.0\ref\program002b-soucet-cifer.dll
