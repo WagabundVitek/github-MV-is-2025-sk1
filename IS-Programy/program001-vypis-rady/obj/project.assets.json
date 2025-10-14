@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VScode_stuff\\github-MV-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectUniqueName": "D:\\InformacniSystemy\\github-MV-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
       "projectName": "program001-vypis-rady",
-      "projectPath": "C:\\VScode_stuff\\github-MV-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectPath": "D:\\InformacniSystemy\\github-MV-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
       "packagesPath": "C:\\Users\\marvi\\.nuget\\packages\\",
-      "outputPath": "C:\\VScode_stuff\\github-MV-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\obj\\",
+      "outputPath": "D:\\InformacniSystemy\\github-MV-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marvi\\AppData\\Roaming\\NuGet\\NuGet.Config"
