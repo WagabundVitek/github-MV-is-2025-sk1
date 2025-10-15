@@ -14,6 +14,7 @@ while (again == "a")
 
     //Vstup hodnoty do programu - řešený správně
     Console.Write("Zadejte prvni cislo rady (cele cislo)");
+    Console.WriteLine();
     int first;
     while (!int.TryParse(Console.ReadLine(), out first))
     {
@@ -22,6 +23,7 @@ while (again == "a")
     }
 
     Console.Write("Zadejte posledni cislo rady (cele cislo)");
+    Console.WriteLine();
     int last;
     while (!int.TryParse(Console.ReadLine(), out last))
     {
@@ -30,6 +32,7 @@ while (again == "a")
     }
 
     Console.Write("Zadejte diferenci (cele cislo)");
+    Console.WriteLine();
     int step;
     while (!int.TryParse(Console.ReadLine(), out step))
     {
@@ -46,6 +49,15 @@ while (again == "a")
     Console.WriteLine($"Diference:{step}");
     Console.WriteLine($"###########################");
     Console.WriteLine("Prvni cislo: {0}, Posledni cislo: {1}, Diference: {2}", first, last, step);
+
+    // výpis číselné řady
+    int current = first;
+    while (current <= last)
+    {
+        Console.WriteLine(current);
+        current += step; // přičtení diference k aktuálnímu číslu
+    }
+
 
 
     Console.WriteLine();
