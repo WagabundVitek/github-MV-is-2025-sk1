@@ -1,4 +1,7 @@
-﻿string again = "a";
+﻿using System.Collections.Specialized;
+using System.Diagnostics;
+
+string again = "a";
 while (again == "a")
 {
     Console.Clear();
@@ -34,9 +37,9 @@ while (again == "a")
     Console.Write("Zadejte diferenci (cele cislo)");
     Console.WriteLine();
     int step;
-    while (!int.TryParse(Console.ReadLine(), out step))
+    while (!int.TryParse(Console.ReadLine(), out step) || step == 0)
     {
-        Console.Write("Nezadali jste cele cislo. Zadejte diferenci znovu. ");
+        Console.Write("Nezadali jste cele cislo nebo jste zadali cislo 0. Zadejte diferenci znovu. ");
         Console.WriteLine();
     }
 
