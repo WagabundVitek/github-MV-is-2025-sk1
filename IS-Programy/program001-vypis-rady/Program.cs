@@ -18,7 +18,21 @@ while (again == "a")
     while (!int.TryParse(Console.ReadLine(), out first))
     {
         Console.Write("Nezadali jste cele cislo. Zadejte prvrni cislo rady znovu. ");
-}
+    }
+
+    Console.Write("Zadejte posledni cislo rady (cele cislo)");
+    int last;
+    while (!int.TryParse(Console.ReadLine(), out last))
+    {
+        Console.Write("Nezadali jste cele cislo. Zadejte posledni cislo rady znovu. ");
+    }
+
+    Console.Write("Zadejte diferenci (cele cislo)");
+    int step;
+    while (!int.TryParse(Console.ReadLine(), out step))
+    {
+        Console.Write("Nezadali jste cele cislo. Zadejte diferenci znovu. ");
+    }
 
     Console.WriteLine();
     Console.WriteLine("Pro opakovani stisknete klavesu a.");

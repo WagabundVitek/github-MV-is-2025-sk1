@@ -13,3 +13,18 @@ C:\VScode stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debu
 C:\VScode stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.pdb
 C:\VScode stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.genruntimeconfig.cache
 C:\VScode stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\ref\program001-vypis-rady.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\bin\Debug\net9.0\program001-vypis-rady.exe
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\bin\Debug\net9.0\program001-vypis-rady.deps.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\bin\Debug\net9.0\program001-vypis-rady.runtimeconfig.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\bin\Debug\net9.0\program001-vypis-rady.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\bin\Debug\net9.0\program001-vypis-rady.pdb
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.AssemblyInfoInputs.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.AssemblyInfo.cs
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.csproj.CoreCompileInputs.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.sourcelink.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\refint\program001-vypis-rady.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.pdb
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.genruntimeconfig.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\ref\program001-vypis-rady.dll
