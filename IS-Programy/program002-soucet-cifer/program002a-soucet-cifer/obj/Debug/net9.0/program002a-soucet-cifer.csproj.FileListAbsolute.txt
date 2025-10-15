@@ -1,0 +1,15 @@
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.exe
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.deps.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.runtimeconfig.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.pdb
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.AssemblyInfoInputs.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.AssemblyInfo.cs
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.sourcelink.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\obj\Debug\net9.0\refint\program002a-soucet-cifer.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.pdb
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.genruntimeconfig.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program002-soucet-cifer\program002a-soucet-cifer\obj\Debug\net9.0\ref\program002a-soucet-cifer.dll
