@@ -1,5 +1,4 @@
-﻿using System.Collections.Specialized;
-using System.Diagnostics;
+﻿using System.Diagnostics;
 
 string again = "a";
 while (again == "a")
@@ -54,13 +53,41 @@ while (again == "a")
     Random myRandnumb = new Random();
     Console.WriteLine("########################################");
     Console.WriteLine("Pseudonahodna cisla");
+    int positiveCount = 0; // kladná čísla
+    int negativeCount = 0; // záporná čísla
+    int zeroes = 0;         // nuly
+    int evenCount = 0;     // sudá čísla
+    int oddCount = 0;      // lichá čísla
     for (int i = 0; i < n; i++)
     {
-        myRandnumbs[i] = myRandnumb.Next(lowerBound, upperBound + 1);
+        myRandnumbs[i] = myRandnumb.Next(lowerBound, upperBound + 1); // generátor
         Console.Write($"{myRandnumbs[i]} ");
+        if (myRandnumbs[i] < 0)
+        {
+            negativeCount++;
+        }
+        else if (myRandnumbs[i] > 0)
+        {
+            positiveCount++;
+        }
+        else
+        {
+            zeroes++;
+        }
+        if (myRandnumbs[i] % 2 == 0)
+        {
+            evenCount++;
+        }
+        else
+        {
+            oddCount++;
+        }
     }
-
-
+        Console.WriteLine($"Pocet kladnych cisel: {positiveCount}");
+        Console.WriteLine($"Pocet zapornych cisel: {negativeCount}");
+        Console.WriteLine($"Pocet sudých cisel: {evenCount}");
+        Console.WriteLine($"Pocet lichých cisel: {oddCount}");
+        Console.WriteLine($"Pocet nul: {zeroes}");
 
     Console.WriteLine();
     Console.WriteLine("Pro opakovani stisknete klavesu a.");

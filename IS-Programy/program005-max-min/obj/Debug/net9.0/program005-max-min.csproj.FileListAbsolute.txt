@@ -1,0 +1,15 @@
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\obj\Debug\net9.0\program005-max-min.GeneratedMSBuildEditorConfig.editorconfig
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\obj\Debug\net9.0\program005-max-min.AssemblyInfoInputs.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\obj\Debug\net9.0\program005-max-min.AssemblyInfo.cs
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\obj\Debug\net9.0\program005-max-min.csproj.CoreCompileInputs.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\obj\Debug\net9.0\program005-max-min.sourcelink.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\bin\Debug\net9.0\program005-max-min.exe
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\bin\Debug\net9.0\program005-max-min.deps.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\bin\Debug\net9.0\program005-max-min.runtimeconfig.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\bin\Debug\net9.0\program005-max-min.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\bin\Debug\net9.0\program005-max-min.pdb
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\obj\Debug\net9.0\program005-max-min.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\obj\Debug\net9.0\refint\program005-max-min.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\obj\Debug\net9.0\program005-max-min.pdb
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\obj\Debug\net9.0\program005-max-min.genruntimeconfig.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program005-max-min\obj\Debug\net9.0\ref\program005-max-min.dll
