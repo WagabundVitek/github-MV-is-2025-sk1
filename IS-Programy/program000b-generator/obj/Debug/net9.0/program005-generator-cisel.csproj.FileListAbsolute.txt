@@ -1,0 +1,15 @@
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\obj\Debug\net9.0\program005-generator-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\obj\Debug\net9.0\program005-generator-cisel.AssemblyInfoInputs.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\obj\Debug\net9.0\program005-generator-cisel.AssemblyInfo.cs
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\obj\Debug\net9.0\program005-generator-cisel.csproj.CoreCompileInputs.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\obj\Debug\net9.0\program005-generator-cisel.sourcelink.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\bin\Debug\net9.0\program005-generator-cisel.exe
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\bin\Debug\net9.0\program005-generator-cisel.deps.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\bin\Debug\net9.0\program005-generator-cisel.runtimeconfig.json
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\bin\Debug\net9.0\program005-generator-cisel.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\bin\Debug\net9.0\program005-generator-cisel.pdb
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\obj\Debug\net9.0\program005-generator-cisel.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\obj\Debug\net9.0\refint\program005-generator-cisel.dll
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\obj\Debug\net9.0\program005-generator-cisel.pdb
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\obj\Debug\net9.0\program005-generator-cisel.genruntimeconfig.cache
+C:\VScode_stuff\github-MV-is-2025-sk1\IS-Programy\program000b-generator\obj\Debug\net9.0\ref\program005-generator-cisel.dll
