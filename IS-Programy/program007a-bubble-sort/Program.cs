@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using System.Collections.Specialized;
+using System.Diagnostics;
 
 string again = "a";
 while (again == "a")
@@ -25,7 +26,7 @@ while (again == "a")
         Console.WriteLine();
     }
 
-    Console.Write("Zadejte dolni mez rady cisel (cele cislo)");
+    Console.Write("Zadejte dolny mez rady cisel (cele cislo)");
     Console.WriteLine();
     int lowerBound;
     while (!int.TryParse(Console.ReadLine(), out lowerBound))
@@ -51,80 +52,49 @@ while (again == "a")
     }
     int[] myRandnumbs = new int[n];
     Random myRandnumb = new Random();
-    Console.Clear();
+    Console.WriteLine("########################################");
     Console.WriteLine("Pseudonahodna cisla");
     for (int i = 0; i < n; i++)
     {
         myRandnumbs[i] = myRandnumb.Next(lowerBound, upperBound + 1);
         Console.Write($"{myRandnumbs[i]} ");
     }
-    // hledání maxima a minima a jejich prvních pozic
-    int max = myRandnumbs[0]; //předpoklad, že první prvek je maximum
-    int min = myRandnumbs[0]; //předpoklad, že první prvek je minimum
-    int posMax = 0;
-    int posMin = 0;
 
-    for (int i = 1; i < n; i++)
-    {
-        if (myRandnumbs[i] > max)
-        {
-            max = myRandnumbs[i];
-            posMax = i;
-        }
-        if (myRandnumbs[i] < min)
-        {
-            min = myRandnumbs[i];
-            posMin = i;
-        }
-    }
-    if (max < 3)
-    {
-        Console.WriteLine("Maximální hodnota je mensi nez 3");
-        Console.WriteLine("Nemá smysl vykreslovat obrazec");
-    }
-    Console.WriteLine();
-    Console.WriteLine($" Pozice prvního maxima: {max} na pozici {posMax}");
-    Console.WriteLine($" Pozice prvního minima: {min} na pozici {posMin}");
-    Console.WriteLine();
-    int starsCount = 0;
-    int spaceCount = 0;
+    Stopwatch myStopwatch = new Stopwatch();
+    myStopwatch.Start();
 
-    for (int i = 0; i < max; i++)
+    int compare = 0;
+    int change = 0;
+    for (int i = 0; i < n - 1; i++)
     {
-        if (i < max / 2)
+        for (int j = 0; j < n - i - 1; j++)
         {
-            spaceCount = i;
-            //horní polovina = s každým dalším řádkem ubývají 2 * (po jedné z každé strany)
-            starsCount = max - 2 * spaceCount;
-            // 10 - 2*0 = 10
-            // 10 - 2*1 = 8
-
-        }
-        else
-        {
-            spaceCount = max - i - 1;
-            if (max % 2 == 1)
+            compare++;
+            if (myRandnumbs[j] > myRandnumbs[j + 1])
             {
-                starsCount = 2 * (i - max / 2) + 1;
-            }
-            else
-            {
-                starsCount = 2 * (i - max / 2) + 2;
+                int temp = myRandnumbs[j + 1];
+                myRandnumbs[j + 1] = myRandnumbs[j];
+                myRandnumbs[j] = temp;
+                change++;
             }
         }
-        Console.ForegroundColor = ConsoleColor.Blue;
-        for (int j = 0; j < spaceCount; j++)
-        {
-            Console.Write(" ");
-        }
-        for (int k = 0; k < starsCount; k++)
-        {
-            Console.Write("*");
-        }
-        Console.WriteLine();
     }
-    Console.ForegroundColor = ConsoleColor.White;
+    myStopwatch.Stop();
     Console.WriteLine();
-        Console.WriteLine("Pro opakovani stisknete klavesu a.");
-        again = Console.ReadLine();
+    Console.WriteLine($"Seřazena čísla pomocí BubbleSort:");
+    for (int i = 0; i < n; i++)
+    {
+        Console.Write($"{myRandnumbs[i]} ");
+    }
+
+    Console.WriteLine();
+    Console.WriteLine($"Cas řazení: {myStopwatch.ElapsedMilliseconds} ms");
+    Console.WriteLine($"Počet porovnání: {compare}");
+    Console.WriteLine($"Počet prohození: {change}");
+
+
+
+    Console.WriteLine();
+    Console.WriteLine("Pro opakovani stisknete klavesu a.");
+    again = Console.ReadLine();
 }
